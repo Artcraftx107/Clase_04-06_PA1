@@ -1,0 +1,3 @@
+(Solicitudes: [(POO-A, 1, 3, 0), (POO-B, 1, 3, 1), (POO-A, 2, 1, 0), (TEC-A, 1, 3, 2), (Web-B, 1, 3, -1)]
+ErroresDeAsignacion: [(Web-B, 1, 3, -1)]
+Asignaciones: {1={3=[(POO-A, 1, 3, 0), (POO-B, 1, 3, 1), (TEC-A, 1, 3, 2)]},2={1=[(POO-A, 2, 1, 0)]}})
