@@ -1,0 +1,1 @@
+Programa visto en clase el dia 04/06/2024 en la asignatura Programacion Avanzada 1, repositorio rehecho ya que al clonar el fichero cree una dependencia con el proyecto antiguo, lo cual llevaba a error cuando se descargaba y ejecutaba en un ordenador que no tuviera dicho proyecto. Perdon a los que lo hayan descargado y se hayan rayado xdd
